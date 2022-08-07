@@ -1,3 +1,1 @@
-.gitattributes export-ignore
-release.json export-ignore
-md5 export-ignore
+* export-ignore
